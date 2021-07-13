@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.game{
+    width: 70%;
+    margin: 0 auto;
+    height: 80vh;
+}
+
+.sub{
+    width: 80px;
+    background-color: teal;
+}
+
+.form{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+
+.correct{
+    background-color: green;
+    margin-bottom: 16px;
+}
+
+.wrong{
+    background-color: red;
+}
+
